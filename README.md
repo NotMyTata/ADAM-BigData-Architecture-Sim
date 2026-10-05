@@ -24,16 +24,14 @@ docker compose up --build -d
 ```
 
  ### 3\. Check the services
+All services should be active
 
 ```
 docker compose ps
 ```
 
- ### 4\. View logs
-
-```
-docker compose logs -f
-```
+### 5\. Web UI
+Open frontend/index.html
 
  ## Services
 
