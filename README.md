@@ -3,7 +3,7 @@
  A Big Data architecture simulation using PostgreSQL, Debezium, Kafka, Spark, MinIO, Elasticsearch, Backend, and Frontend.
 
  ## Demo
- [Demo Sim YouTube](https://youtu.be/RomImGPMCAo)
+ [![Demo Sim YouTube](https://img.youtube.com/vi/RomImGPMCAo/maxresdefault.jpg)](https://youtu.be/RomImGPMCAo)
 
  ## Requirements
 
